@@ -16,8 +16,13 @@ This portfolio documents practical projects I'm completing to develop and demons
 
 ### Projects
 
-🔎 **Network Security & Reconnaissance Lab** — Coming Soon  
-Analyze a controlled lab network using Nmap and Wireshark to identify hosts, ports, services, and network traffic.
+### 🔐 Network Security & Reconnaissance Lab
+
+[View Project](https://github.com/cristinasantiagogarcia/network-security-recon-lab)
+
+Built an isolated VirtualBox cybersecurity lab using Kali Linux and Metasploitable 2. Performed network reconnaissance and service enumeration with Nmap and analyzed TCP SYN scan behavior with Wireshark.
+
+**Skills:** Network Reconnaissance • Nmap • Wireshark • TCP/IP • Service Enumeration • Network Segmentation • Packet Analysis
 
 🖥️ **Active Directory Security Lab** — Coming Soon  
 Build and secure a Windows Active Directory environment while practicing identity, access control, Group Policy, and security monitoring.
