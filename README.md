@@ -12,7 +12,7 @@ I'm currently expanding my hands-on cybersecurity skills through practical home-
 
 ## 🔐 Cybersecurity Portfolio
 
-This portfolio documents practical projects I'm completing to develop and demonstrate hands-on cybersecurity and IT skills.
+This portfolio documents practical projects I've completed and am continuing to build to develop and demonstrate hands-on cybersecurity and IT skills.
 
 ### Projects
 
